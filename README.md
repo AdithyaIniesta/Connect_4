@@ -12,7 +12,9 @@ g++ main.cpp connect_4.cpp
 ./a.out 
 ```
 Step 2: Enter 1 to take the first chance or 0 to give chance to computer <br>
-![connect_41](https://user-images.githubusercontent.com/13369817/123522151-d8d50680-d6bb-11eb-958a-90b855623882.png) <br>
+![c1](https://user-images.githubusercontent.com/13369817/123522581-58fc6b80-d6be-11eb-9b0b-051f237558de.png)
+
 
 Step 3: Choose the column number to drop the counters <br>
-![connect43](https://user-images.githubusercontent.com/13369817/123522283-b2639b00-d6bc-11eb-8cb4-d0a30063077c.png)
+![c2](https://user-images.githubusercontent.com/13369817/123522584-5f8ae300-d6be-11eb-9531-607b1d2b384c.png)
+
